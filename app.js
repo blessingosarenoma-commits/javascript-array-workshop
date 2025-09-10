@@ -10,4 +10,6 @@ console.log(blogpost[1]);
 
 //i want to do an array of my favorite fruit in the array below//
 const favouritefruit = ["orange", "peach", "plums", "grape"];
-console.log(favouritefruit[3]);
+for (let i = 0; i, favouritefruit.length; i++) {
+  console.log(favouritefruit[i]);
+}
